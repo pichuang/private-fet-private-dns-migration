@@ -1,0 +1,3 @@
+backup-private-dns-zones-*
+*.tar.gz
+.env
